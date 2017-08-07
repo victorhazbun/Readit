@@ -1,27 +1,28 @@
 {
-  "name": "electron-quick-start",
+  "name": "readit",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "bookmarking app for articles to read",
   "main": "main.js",
   "scripts": {
     "start": "./node_modules/.bin/electron ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/victorhazbun/readit.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "readit",
+    "electron",
+    "bookmarking",
+    "read",
+    "desktop"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/victorhazbun/readit/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/victorhazbun/readit#readme",
   "devDependencies": {
     "devtron": "*",
     "electron": "*",
